@@ -1,3 +1,5 @@
+config.json
+
 # Logs
 logs
 *.log
@@ -62,3 +64,5 @@ typings/
 
 # Cache used by TypeScript's incremental build
 *.tsbuildinfo
+
+src/config/config.ts
